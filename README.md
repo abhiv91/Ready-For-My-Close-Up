@@ -1,5 +1,7 @@
 # Ready-For-My-Close-Up
 
+#Abhishek Varma, 2014
+
 Predicting the optimum month to release a movie
 
 Introduction
